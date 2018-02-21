@@ -1,0 +1,9 @@
+{
+  "groups": [{
+    "name": "application",
+    "sourceType": "br.com.aliancasolucoes.config.ApplicationProperties",
+    "type": "br.com.aliancasolucoes.config.ApplicationProperties"
+  }],
+  "hints": [],
+  "properties": []
+}
